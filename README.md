@@ -47,3 +47,6 @@ This project is dedicated to every soul that may one day seek a glimmer of hope 
 ### Dedication & Final Note
 ​This work is a tribute to the resilience of the people in Gaza and everywhere where life is threatened under the ruins. We believe that technology should serve humanity’s most urgent needs.
 ​Free Palestine. May no one be left behind.
+
+### Open for humanity.
+Built so that technology serves life before ownership. ✅💪🙂
