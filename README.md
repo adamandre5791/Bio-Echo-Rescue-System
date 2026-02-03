@@ -46,7 +46,7 @@ Use by NGOs (Red Crescent, Red Cross, MSF), researchers, and volunteers for life
 
 Commercial production or sale of the device without explicit permission from the author.
 
-​Note: 
+- ​Note: 
 
 Any hardware implementation or software derivative of this ASR-based rescue method must retain the original attribution to the Bio-Echo Rescue System as per CC BY-SA 4.0 guidelines.
 
@@ -83,10 +83,10 @@ Contributors are encouraged to fork this repo to build specific implementations 
 
 We believe that technology should serve humanity’s most urgent needs.
 
-Free Palestine.
+- Free Palestine.
 
 May no one be left behind.
 
-​Open for humanity.
+- ​Open for humanity.
 
 ​Built so that technology serves life before ownership. ✅💪🙂
