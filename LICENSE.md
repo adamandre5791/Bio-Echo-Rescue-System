@@ -1,11 +1,6 @@
-# License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-This project is licensed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License. 
-
-### Summary of Rights:
-- **Attribution:** You must give appropriate credit to the original author.
-- **NonCommercial:** You may not use the material for commercial purposes.
-- **Humanitarian Use:** The author explicitly encourages the use of this concept by non-profit organizations (e.g., Red Crescent, Red Cross) for life-saving and disaster relief operations.
-
-To view a full copy of this license, visit:
-https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+​This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+​Summary for the Bio-Echo Rescue System:
+​Attribution: Others must give you appropriate credit.
+​ShareAlike: If others remix, transform, or build upon the material, they must distribute their contributions under the same license as the original.
+​Open for All: This ensures that humanitarian organizations like the Red Cross/Red Crescent will always have access to the latest improvements.
