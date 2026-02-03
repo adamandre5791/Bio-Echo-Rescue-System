@@ -34,3 +34,5 @@ We are looking for:
 - **Disaster Management Experts:** For field testing scenarios.
 
 # Any hardware implementation or software derivative of this ASR-based rescue method must retain the original attribution to the Bio-Echo Rescue System as per CC BY-SA 4.0 guidelines.
+
+## ​"This repository serves as the Core Specification and scientific foundation for the Bio-Echo system. Contributors are encouraged to fork this repo to build specific implementations (Software/Hardware) under the same CC BY-SA 4.0 license."
