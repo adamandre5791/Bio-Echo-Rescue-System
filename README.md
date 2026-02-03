@@ -33,4 +33,4 @@ We are looking for:
 - **Embedded Systems Developers:** To optimize the detection algorithm.
 - **Disaster Management Experts:** For field testing scenarios.
 
-Any hardware implementation or software derivative of this ASR-based rescue method must retain the original attribution to the Bio-Echo Rescue System as per CC BY-SA 4.0 guidelines.
+# Any hardware implementation or software derivative of this ASR-based rescue method must retain the original attribution to the Bio-Echo Rescue System as per CC BY-SA 4.0 guidelines.
