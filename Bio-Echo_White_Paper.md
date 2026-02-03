@@ -31,3 +31,5 @@ Upon a positive hit, the device activates:
  * Low Cost: Utilizing PZT sensors and simple microchips makes it accessible for mass distribution.
 6. Conclusion and Call for Action
 The "Bio-Echo" concept bridges the gap between clinical audiology and emergency engineering. We invite researchers in Biomedical Engineering and Disaster Management to develop prototypes and test the mechanical coupling between the stapedius muscle and surface-mounted PZT sensors under simulated rubble conditions.
+
+## This concept and document are licensed under CC BY-SA 4.0. Dedicated to humanitarian use.
