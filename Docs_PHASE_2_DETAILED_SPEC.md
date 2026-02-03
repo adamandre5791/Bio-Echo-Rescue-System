@@ -35,7 +35,7 @@ Upon positive life confirmation, the device activates a prioritized, dual-signal
 
 Beacon Type Signal Characteristics Primary Role Advantage
 RF Beacon Low-frequency, long-wavelength pulse (e.g., 433 MHz). Repeated digital packet containing a unique device ID. Long-Range Penetration & Area Scanning. Effectively penetrates dense rubble and concrete. Allows rescue teams to narrow the search area to a specific sector using directional antennas.
-Acoustic Beacon High-frequency, patterned sonic pulse (e.g., 3-4 kHz chirp). Precision Pinpointing. Activated once RF signals are detected nearby. Provides极高精度 location data (cm-level) for final excavation, as sound waves are easier to trace precisely in confined spaces than RF.
+Acoustic Beacon High-frequency, patterned sonic pulse (e.g., 3-4 kHz chirp). Precision Pinpointing. Activated once RF signals are detected nearby. Provides location data (cm-level) for final excavation, as sound waves are easier to trace precisely in confined spaces than RF.
 
 Localization Workflow: Rescue teams first sweep the area with directional RF receivers. When a signal is acquired, they deploy highly sensitive contact microphones or seismic sensors onto the rubble surface to listen for and triangulate the acoustic beacon, guiding the final dig.
 
