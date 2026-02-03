@@ -20,7 +20,7 @@ The **Bio-Echo** system is an open-source humanitarian project designed to detec
 - **Hardware:** Low-power ARM Cortex-M series micro-processors.
 
 ## 📜 White Paper
-Read the full technical concept here: [Link to White_Paper.md]
+Read the full technical concept.
 
 ## ⚖️ License & Ethical Use
 This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
