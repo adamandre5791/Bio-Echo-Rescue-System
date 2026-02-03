@@ -24,7 +24,7 @@ The **Bio-Echo** system is an open-source humanitarian project designed to detec
 Read the full technical concept.
 
 ## ⚖️ License & Ethical Use
-This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+This project is licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) **.
 - **Allowed:** Use by NGOs (Red Crescent, Red Cross, MSF), researchers, and volunteers for life-saving purposes.
 - **Prohibited:** Commercial production or sale of the device without explicit permission from the author.
 
