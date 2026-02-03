@@ -1,12 +1,15 @@
            بسم الله الرحمن الرحيم
 
  ​🆘 Bio-Echo Rescue System
+ 
 ​Leveraging the Acoustic Stapedial Reflex (ASR) for Automated Distress Signaling under Rubble
 
 ​🌟 Vision
+
 ​The Bio-Echo system is an open-source humanitarian project designed to detect trapped survivors in disaster zones (earthquakes, collapses). Unlike current methods, Bio-Echo relies on a brainstem-mediated involuntary reflex, making it capable of signaling the location of even unconscious victims.
 
 ​🧠 How it Works
+
 ​Stimulus: Rescuers emit a high-decibel "Rescue Pulse".
 
 ​Biological Trigger: The victim’s ear triggers the Stapedius muscle contraction (Acoustic Reflex).
@@ -16,6 +19,7 @@
 ​Response: The device automatically activates a high-power acoustic/RF beacon to guide rescuers.
 
 ​🛠 Technical Highlights
+
 ​Target: Acoustic Stapedial Reflex (ASR).
 
 ​Latency: 25–150 ms (Unique biological signature).
@@ -31,13 +35,20 @@
 Read the full technical concept.
 
 ​⚖️ License & Ethical Use
+
 ​This project is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 
-​✅ Allowed: Use by NGOs (Red Crescent, Red Cross, MSF), researchers, and volunteers for life-saving purposes.
+​✅ Allowed:
 
-​❌ Prohibited: Commercial production or sale of the device without explicit permission from the author.
+Use by NGOs (Red Crescent, Red Cross, MSF), researchers, and volunteers for life-saving purposes.
 
-​Note: Any hardware implementation or software derivative of this ASR-based rescue method must retain the original attribution to the Bio-Echo Rescue System as per CC BY-SA 4.0 guidelines.
+​❌ Prohibited:
+
+Commercial production or sale of the device without explicit permission from the author.
+
+​Note: 
+
+Any hardware implementation or software derivative of this ASR-based rescue method must retain the original attribution to the Bio-Echo Rescue System as per CC BY-SA 4.0 guidelines.
 
 ​🤝 Call for Collaboration
 
@@ -50,6 +61,7 @@ Read the full technical concept.
 ​Disaster Management Experts: For field testing scenarios.
 
 ​🌍 Core Specification
+
 ​This repository serves as the Core Specification and scientific foundation for the Bio-Echo system.
 
 Contributors are encouraged to fork this repo to build specific implementations (Software/Hardware) under the same CC BY-SA 4.0 license.
