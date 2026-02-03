@@ -1,3 +1,4 @@
+           بسم الله الرحمن الرحيم
 # Bio-Echo Rescue System 🆘
 
 ### Leveraging the Acoustic Stapedial Reflex (ASR) for Automated Distress Signaling under Rubble.
@@ -36,3 +37,13 @@ We are looking for:
 # Any hardware implementation or software derivative of this ASR-based rescue method must retain the original attribution to the Bio-Echo Rescue System as per CC BY-SA 4.0 guidelines.
 
 ## ​"This repository serves as the Core Specification and scientific foundation for the Bio-Echo system. Contributors are encouraged to fork this repo to build specific implementations (Software/Hardware) under the same CC BY-SA 4.0 license."
+
+هذا المشروع مكرس لكل إنسان قد يكون يوماً في حاجة إلى أمل تحت الركام، ولكل إنسان يريد أن يمد يده بالأمل.
+
+أبدع. انقد. شارك.
+
+This project is dedicated to every soul that may one day seek a glimmer of hope beneath the rubble, and to every hand reaching out to ignite that hope.
+
+### Dedication & Final Note
+​This work is a tribute to the resilience of the people in Gaza and everywhere where life is threatened under the ruins. We believe that technology should serve humanity’s most urgent needs.
+​Free Palestine. May no one be left behind.
