@@ -38,6 +38,8 @@ For more info, see the work flow :
 
 Read the full technical concept.
 
+[https://github.com/adamandre5791/Bio-Echo-Rescue-System/blob/main/Bio-Echo_White_Paper.md]
+
 ​⚖️ License & Ethical Use
 
 ​This project is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
