@@ -18,6 +18,10 @@
 
 ​Response: The device automatically activates a high-power acoustic/RF beacon to guide rescuers.
 
+For more info, see the work flow :
+
+[https://github.com/adamandre5791/Bio-Echo-Rescue-System/blob/main/phase2-logic_flow-ex.py]
+
 ​🛠 Technical Highlights
 
 ​Target: Acoustic Stapedial Reflex (ASR).
