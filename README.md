@@ -1,5 +1,25 @@
            بسم الله الرحمن الرحيم
 
+# Bio-Echo Rescue System
+
+## What is this?
+An open-source humanitarian concept to detect unconscious survivors under rubble using biological acoustic reflexes.
+
+## Why it matters?
+Current rescue tools fail when victims are unconscious or silent.
+
+## Current status
+Conceptual / research-stage — seeking non-profit & academic partners.
+
+## License
+Fully open-source, non-commercial humanitarian use encouraged.
+
+## How to help
+• Research validation  
+• Sensor prototyping  
+• Field testing  
+• Signal processing
+
  ​🆘 Bio-Echo Rescue System
  
 ​Leveraging the Acoustic Stapedial Reflex (ASR) for Automated Distress Signaling under Rubble
